@@ -1,1 +1,9 @@
-{}
+{
+  "enabledCssSnippets": [
+    "test"
+  ],
+  "cssTheme": "Typomagical",
+  "theme": "moonstone",
+  "accentColor": "",
+  "baseFontSize": 16
+}

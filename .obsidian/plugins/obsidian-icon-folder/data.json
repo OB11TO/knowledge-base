@@ -1,0 +1,282 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiGnubash",
+      "SiDocker",
+      "SiHibernate",
+      "SiOracle",
+      "SiSpring"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "programming/backendJava/docker": {
+    "iconName": "SiDocker",
+    "iconColor": "#13cee7"
+  },
+  "programming/backendJava/bash": {
+    "iconName": "SiGnubash",
+    "iconColor": "#312525"
+  },
+  "programming/backendJava/git": {
+    "iconName": "SiGit",
+    "iconColor": "#e17014"
+  },
+  "programming/backendJava/gradle": {
+    "iconName": "SiGradle",
+    "iconColor": "#76acb7"
+  },
+  "programming/backendJava/hibernate": {
+    "iconName": "SiHibernate",
+    "iconColor": "#72593b"
+  },
+  "programming/backendJava/interview": {
+    "iconName": "LiMedal",
+    "iconColor": "#f0dc00"
+  },
+  "programming/backendJava/javaEE": {
+    "iconName": "RiJavaLine",
+    "iconColor": "#eaa510"
+  },
+  "programming/backendJava/jdbc": {
+    "iconName": "FarHardDrive",
+    "iconColor": "#050505"
+  },
+  "programming/backendJava/k8s": {
+    "iconName": "SiKubernetes",
+    "iconColor": "#4980ee"
+  },
+  "programming/backendJava/liquibase": {
+    "iconName": "SiLiquibase",
+    "iconColor": "#132df6"
+  },
+  "programming/backendJava/maven": {
+    "iconName": "SiApachemaven",
+    "iconColor": "#c61515"
+  },
+  "programming/backendJava/microservices": {
+    "iconName": "SiAmazonsimpleemailservice",
+    "iconColor": "#48ad59"
+  },
+  "programming/backendJava/networks": {
+    "iconName": "TiNetwork",
+    "iconColor": "#65b3c3"
+  },
+  "programming/backendJava/oracle": {
+    "iconName": "SiOracle",
+    "iconColor": "#d9540d"
+  },
+  "programming/backendJava/patterns": "SiTextpattern",
+  "programming/backendJava/postgresql": {
+    "iconName": "BoBxlPostgresql",
+    "iconColor": "#0e86af"
+  },
+  "programming/backendJava/redis": {
+    "iconName": "SiRedis",
+    "iconColor": "#c31d1d"
+  },
+  "programming/backendJava/spring": {
+    "iconName": "SiSpring",
+    "iconColor": "#37be5f"
+  },
+  "programming/backendJava/testing": {
+    "iconName": "SiTestin",
+    "iconColor": "#5aa300"
+  },
+  "programming/backendJava/Java Developer.md": "CoMainComponent",
+  "programming/backendJava": {
+    "iconName": "BoBxlJava",
+    "iconColor": "#d19900"
+  },
+  "programming/backendJava/kafka": "SiApachekafka",
+  "programming/backendJava/javaEE/apache tomcat": "SiApachetomcat",
+  "programming/backendJava/javaEE/Java EE.md": {
+    "iconName": "RiJavaLine",
+    "iconColor": "#e0870b"
+  },
+  "programming/backendJava/javaEE/servlets-base": "SiWebstorm",
+  "programming/backendJava/networks/Network.md": {
+    "iconName": "TiNetwork",
+    "iconColor": "#65b3c3"
+  },
+  "programming/backendJava/javaSE": {
+    "iconName": "FabJava",
+    "iconColor": "#eb840f"
+  },
+  "programming/backendJava/javaSE/collections": "BoBxCollection",
+  "programming/backendJava/javaSE/streamApi": "SiStreamrunners",
+  "programming/backendJava/javaSE/io-nio": "RiInputField",
+  "programming/backendJava/javaSE/multithriding": "SiThreads",
+  "programming/backendJava/javaSE/Java SE.md": {
+    "iconName": "RiJavaLine",
+    "iconColor": "#e88f11"
+  },
+  "programming/backendJava/javaSE/java-core": {
+    "iconName": "RiJavaFill",
+    "iconColor": "#c6942a"
+  },
+  "programming/backendJava/maven/Maven.md": {
+    "iconName": "SiApachemaven",
+    "iconColor": "#c61515"
+  },
+  "programming/backendJava/maven/all-maven": {
+    "iconName": "SiApachemaven",
+    "iconColor": "#c61515"
+  },
+  "programming/backendJava/gradle/all-gradle": {
+    "iconName": "SiGradle",
+    "iconColor": "#76acb7"
+  },
+  "programming/backendJava/gradle/Gradle.md": {
+    "iconName": "SiGradle",
+    "iconColor": "#76acb7"
+  },
+  "programming/backendJava/git/Git.md": {
+    "iconName": "SiGit",
+    "iconColor": "#e17014"
+  },
+  "programming/backendJava/git/all-git": {
+    "iconName": "SiGit",
+    "iconColor": "#e17014"
+  },
+  "programming/backendJava/groovy": {
+    "iconName": "SiApachegroovy",
+    "iconColor": "#3d91af"
+  },
+  "programming/backendJava/groovy/Groovy.md": {
+    "iconName": "SiApachegroovy",
+    "iconColor": "#3d91af"
+  },
+  "programming/backendJava/groovy/all-groovy": {
+    "iconName": "SiApachegroovy",
+    "iconColor": "#3d91af"
+  },
+  "programming/backendJava/postgresql/all-postgresql": {
+    "iconName": "BoBxlPostgresql",
+    "iconColor": "#0e86af"
+  },
+  "programming/backendJava/postgresql/PostgreSql.md": {
+    "iconName": "BoBxlPostgresql",
+    "iconColor": "#0e86af"
+  },
+  "programming/backendJava/redis/all-redis": {
+    "iconName": "SiRedis",
+    "iconColor": "#c31d1d"
+  },
+  "programming/backendJava/redis/Redis.md": {
+    "iconName": "SiRedis",
+    "iconColor": "#c31d1d"
+  },
+  "programming/backendJava/oracle/all-oracle": {
+    "iconName": "SiOracle",
+    "iconColor": "#d9540d"
+  },
+  "programming/backendJava/oracle/Oracle.md": {
+    "iconName": "SiOracle",
+    "iconColor": "#d9540d"
+  },
+  "programming/algorithm": {
+    "iconName": "SiThealgorithms",
+    "iconColor": "#e6e117"
+  },
+  "programming/algorithm/Algorithm.md": {
+    "iconName": "SiThealgorithms",
+    "iconColor": "#e6e117"
+  },
+  "programming/algorithm/algorithm": {
+    "iconName": "SiThealgorithms",
+    "iconColor": "#e6e117"
+  },
+  "武士道/武士道.md": "LiSword",
+  "english/English.md": "🇸🇬",
+  "武士道/武士道": "LiSword",
+  "english/english": "🇸🇬",
+  "work/alvion": "LiAlignVerticalSpaceAround",
+  "work/alvion/alvion": "LiAlignVerticalSpaceAround",
+  "work/alvion/Alvion.md": "LiAlignVerticalSpaceAround",
+  "programming/backendJava/javaSE/jvm": "BoBxsObjectsVerticalBottom",
+  "programming/backendJava/testing/all-testing": {
+    "iconName": "SiTestin",
+    "iconColor": "#5aa300"
+  },
+  "programming/backendJava/testing/Testing.md": {
+    "iconName": "SiTestin",
+    "iconColor": "#5aa300"
+  },
+  "programming/backendJava/patterns/Patterns Architecture.md": "SiTextpattern",
+  "programming/backendJava/jdbc/JDBC.md": "FarHardDrive",
+  "programming/backendJava/liquibase/Liquibase.md": {
+    "iconName": "SiLiquibase",
+    "iconColor": "#132df6"
+  },
+  "programming/backendJava/jdbc/all-jdbc": "FarHardDrive",
+  "programming/backendJava/patterns/all-patterns": "SiTextpattern",
+  "programming/backendJava/patterns/all-patterns/architecture": "TiArticle",
+  "programming/backendJava/networks/all-network": {
+    "iconName": "TiNetwork",
+    "iconColor": "#65b3c3"
+  },
+  "programming/backendJava/liquibase/all-liquibase": {
+    "iconName": "SiLiquibase",
+    "iconColor": "#132df6"
+  },
+  "programming/backendJava/kafka/all-kafka": "SiApachekafka",
+  "programming/backendJava/k8s/all-k8s": {
+    "iconName": "SiKubernetes",
+    "iconColor": "#4980ee"
+  },
+  "programming/backendJava/k8s/Kubernetes.md": {
+    "iconName": "SiKubernetes",
+    "iconColor": "#4980ee"
+  },
+  "programming/backendJava/spring/all-spring": {
+    "iconName": "SiSpring",
+    "iconColor": "#37be5f"
+  },
+  "programming/backendJava/spring/Spring.md": {
+    "iconName": "SiSpring",
+    "iconColor": "#37be5f"
+  },
+  "programming/backendJava/hibernate/all-hibernate": {
+    "iconName": "SiHibernate",
+    "iconColor": "#72593b"
+  },
+  "programming/backendJava/hibernate/Hibernate.md": {
+    "iconName": "SiHibernate",
+    "iconColor": "#72593b"
+  },
+  "programming/backendJava/interview/all-interview/Почему в цикле for нельзя обновить коллекцию.md": "RiJavaFill",
+  "programming/backendJava/docker/all-docker": {
+    "iconName": "SiDocker",
+    "iconColor": "#13cee7"
+  },
+  "programming/backendJava/docker/Docker.md": {
+    "iconName": "SiDocker",
+    "iconColor": "#13cee7"
+  },
+  "programming/backendJava/bash/all-bash": "SiGnubash",
+  "programming/backendJava/bash/Bash.md": "SiGnubash"
+}

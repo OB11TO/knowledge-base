@@ -1,41 +1,98 @@
 {
   "main": {
-    "id": "304509e23c91ca04",
+    "id": "0d1acc4f896d7568",
     "type": "split",
     "children": [
       {
-        "id": "9fb46391f93ec039",
+        "id": "a47aaed2d662233f",
         "type": "tabs",
         "children": [
           {
-            "id": "5618a82ef8d8589c",
+            "id": "8fa6987921948491",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/backendJava/javaSE/jvm/Виртуальная память и потоки.md",
+                "file": "programming/backendJava/javaSE/Java SE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Виртуальная память и потоки"
+              "title": "Java SE"
+            }
+          },
+          {
+            "id": "5d870ba55aa20ca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/backendJava/javaSE/jvm/PC Register JVM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PC Register JVM"
+            }
+          },
+          {
+            "id": "5f2d43e282ceb231",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/backendJava/Java Developer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java Developer"
+            }
+          },
+          {
+            "id": "97978231d0b332af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/backendJava/postgresql/PostgreSql.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PostgreSql"
+            }
+          },
+          {
+            "id": "8edfde11f0181b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/backendJava/postgresql/all-postgresql/Функции-Процедуры.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Функции-Процедуры"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3b003b68a72976ff",
+    "id": "f6cf65d4c08aa7f3",
     "type": "split",
     "children": [
       {
-        "id": "5009b0bd7112d52e",
+        "id": "98482d4260737d97",
         "type": "tabs",
         "children": [
           {
-            "id": "d33f2a41f8b7fe47",
+            "id": "a3f1da65a8773f2c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +105,7 @@
             }
           },
           {
-            "id": "4ac989f5ebdc6aa8",
+            "id": "7b356c2a31210cc6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,14 +115,14 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-search",
               "title": "Поиск"
             }
           },
           {
-            "id": "52d84e71e9e824e4",
+            "id": "6b76bba79aa48199",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +135,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 229.50260543823242
   },
   "right": {
-    "id": "a130674448a1d84d",
+    "id": "90247be8bdd1a185",
     "type": "split",
     "children": [
       {
-        "id": "646f83fd125144c7",
+        "id": "608f76448e2da96f",
         "type": "tabs",
         "children": [
           {
-            "id": "3d805936b6a9200b",
+            "id": "2b9877c3df4f21e8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/backendJava/javaSE/jvm/Виртуальная память и потоки.md",
+                "file": "Быстрый гайд по String выжимка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,75 +161,115 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Виртуальная память и потоки"
+              "title": "Обратные ссылки для Быстрый гайд по String выжимка"
             }
           },
           {
-            "id": "d9d85ce7723380dc",
+            "id": "4ede727f2559108e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/backendJava/javaSE/jvm/Виртуальная память и потоки.md",
+                "file": "programming/backendJava/gradle/all-gradle/Транзитивные зависимости Gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Виртуальная память и потоки"
+              "title": "Исходящие ссылки из Транзитивные зависимости Gradle"
             }
           },
           {
-            "id": "3a4c66e03fb744fa",
+            "id": "db0f39adc4d92cfc",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Теги"
             }
           },
           {
-            "id": "a332a9b03bfa0b7a",
+            "id": "37a81ed08718afce",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/backendJava/javaSE/jvm/Виртуальная память и потоки.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "programming/backendJava/gradle/all-gradle/Транзитивные зависимости Gradle.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Виртуальная память и потоки"
+              "title": "Структура Транзитивные зависимости Gradle"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
+      "command-palette:Открыть палитру команд": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5618a82ef8d8589c",
+  "active": "5d870ba55aa20ca8",
   "lastOpenFiles": [
     "programming/backendJava/javaSE/jvm/JVM.md",
     "programming/backendJava/javaSE/Java SE.md",
-    "programming/backendJava/hibernate/Hibernate.md",
-    "programming/backendJava/bash/Bash.md"
+    "programming/backendJava/liquibase/all-liquibase/Базовое описание Liquibase.md",
+    "programming/backendJava/liquibase/Liquibase.md",
+    "programming/backendJava/liquibase/all-liquibase/Настройка конфигурации Liquibase.md",
+    "programming/backendJava/postgresql/all-postgresql/Функции-Процедуры.md",
+    "programming/backendJava/postgresql/PostgreSql.md",
+    "programming/backendJava/Java Developer.md",
+    "programming/backendJava/liquibase/all-liquibase/Моя реализация Liquibase в разных проектах.md",
+    "Preconditions Liquibase.md",
+    "images/Pasted image 20250430163956.png",
+    "programming/backendJava/liquibase/all-liquibase/Best Practies Liquibase.md",
+    "Contexts и Labels Liquibase.md",
+    "images/Pasted image 20250430160928.png",
+    "images/Pasted image 20250430155606.png",
+    "images/Pasted image 20250430155514.png",
+    "programming/backendJava/liquibase/all-liquibase/Подключение Liquibase.md",
+    "images/Pasted image 20250430154803.png",
+    "images/Pasted image 20250430153155.png",
+    "programming/backendJava/javaSE/java-core/Java Core.md",
+    "programming/backendJava/postgresql/all-postgresql/Postgres внутри.md",
+    "programming/backendJava/postgresql/all-postgresql/Архитектура.md",
+    "programming/backendJava/postgresql/all-postgresql/Изоляция и многоверсионность.md",
+    "programming/backendJava/postgresql/all-postgresql/Откат транзакции и запись на диск.md",
+    "programming/backendJava/postgresql/all-postgresql/MVCC (Multiversion Concurrency Control).md",
+    "programming/backendJava/javaSE/java-core/Логирование.md",
+    "programming/backendJava/javaSE/java-core/Логирование job4j.md",
+    "programming/backendJava/javaSE/java-core/База по логированию.md",
+    "programming/backendJava/spring/Spring.md",
+    "programming/backendJava/jdbc/all-jdbc/Connection Pool Jdbc.md",
+    "programming/backendJava/jdbc/JDBC.md",
+    "programming/backendJava/postgresql/all-postgresql/Индексы.md",
+    "images/Pasted image 20250429160143.png",
+    "programming/backendJava/microservices/all-microservices",
+    "programming/backendJava/microservices",
+    "programming/backendJava/bash/all-bash",
+    "programming/backendJava/bash",
+    "programming/backendJava/docker/Без названия",
+    "programming/backendJava/docker/all-docker",
+    "programming/backendJava/hibernate/all-hibernate",
+    "programming/backendJava/oracle/all-oracle",
+    "programming/backendJava/spring/all-spring",
+    "programming/backendJava/k8s/all-k8s",
+    "images/Pasted image 20250429142512.png",
+    "images/Pasted image 20250429135838.png",
+    "images/Pasted image 20250429132733.png",
+    "Без названия.canvas",
+    "Без названия 1.canvas"
   ]
 }

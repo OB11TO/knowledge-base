@@ -1,0 +1,251 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "0zSNHQNMCLH-JiF45mawM",
+      "name": "Java",
+      "value": "#e8bb6d"
+    },
+    {
+      "id": "PduIHgiczBsQutCwBi4Wd",
+      "name": "Bash",
+      "value": "#ada9a9"
+    },
+    {
+      "id": "JuPerDCteBlE1YLaQUF44",
+      "name": "Docker",
+      "value": "#b6f0fb"
+    },
+    {
+      "id": "AWbOS_D8A5tBdNvuXIUw0",
+      "name": "k8s",
+      "value": "#94a4d6"
+    },
+    {
+      "id": "fuVvoL0INM6hoXmOl6t7A",
+      "name": "redis",
+      "value": "#f98080"
+    },
+    {
+      "id": "av7PnaseuY9OCmn48RS91",
+      "name": "hibernate",
+      "value": "#976363"
+    },
+    {
+      "id": "BnRJjlkOZ6EIsPHMt9Rkk",
+      "name": "spring",
+      "value": "#85e08b"
+    },
+    {
+      "id": "Nfk25-gxwcEH04LEsg7uC",
+      "name": "microservices",
+      "value": "#76987d"
+    },
+    {
+      "id": "BUP_T_wNblrjsIAfnm5Zh",
+      "name": "postgres",
+      "value": "#829fd9"
+    },
+    {
+      "id": "Yh0M1wu3tY9DiQ3R_w0dP",
+      "name": "Maven",
+      "value": "#d24b4b"
+    },
+    {
+      "id": "MA3AFVL6ytRKwVNnD8NyA",
+      "name": "Gradle",
+      "value": "#5498a6"
+    },
+    {
+      "id": "FCweSnlF5VGbOTFgP8MTE",
+      "name": "jdbc",
+      "value": "#44596f"
+    },
+    {
+      "id": "BnDTqNeYU40hXk4fiS6wj",
+      "name": "oracle",
+      "value": "#e1b24c"
+    },
+    {
+      "id": "NpfRRYL2g_gtThVEM8gJc",
+      "name": "javaSE",
+      "value": "#efbc4e"
+    },
+    {
+      "id": "lIlCnY1GEantNZ4kB14W-",
+      "name": "liquibase",
+      "value": "#466bb4"
+    },
+    {
+      "id": "Z9PNz1LzoE_1pgE10jRtn",
+      "name": "pattern",
+      "value": "#4d4d4d"
+    },
+    {
+      "id": "Ax-x9EZQ6voeXxfr0LB28",
+      "name": "testing",
+      "value": "#00ff40"
+    },
+    {
+      "id": "fSJPedXRGHPFOWYduJgYI",
+      "name": "git",
+      "value": "#d2770f"
+    },
+    {
+      "id": "N5c5fJt3JNiVNkNF3BKDy",
+      "name": "networks",
+      "value": "#40a2b5"
+    },
+    {
+      "id": "w7Neob-qBfnflq4XwORgd",
+      "name": "interview",
+      "value": "#dfe232"
+    },
+    {
+      "id": "BzSzRLzRxD4yxV7JxOK3c",
+      "name": "none2",
+      "value": "#ffffff"
+    },
+    {
+      "id": "rina1CXDDLRUhnkEY3Ocx",
+      "name": "kafka",
+      "value": "#ff0000"
+    },
+    {
+      "id": "a3pyCCCucLVH73JovmJFs",
+      "name": "groovy",
+      "value": "#3d91af"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "programming/backendJava/javaSE",
+      "color": "0zSNHQNMCLH-JiF45mawM"
+    },
+    {
+      "path": "programming/backendJava/bash",
+      "color": "PduIHgiczBsQutCwBi4Wd"
+    },
+    {
+      "path": "programming/backendJava/docker",
+      "color": "JuPerDCteBlE1YLaQUF44"
+    },
+    {
+      "path": "programming/backendJava/k8s",
+      "color": "AWbOS_D8A5tBdNvuXIUw0"
+    },
+    {
+      "path": "programming/backendJava/microservices",
+      "color": "Ax-x9EZQ6voeXxfr0LB28"
+    },
+    {
+      "path": "programming/backendJava/spring",
+      "color": "BnRJjlkOZ6EIsPHMt9Rkk"
+    },
+    {
+      "path": "programming/backendJava/redis",
+      "color": "fuVvoL0INM6hoXmOl6t7A"
+    },
+    {
+      "path": "programming/backendJava/gradle",
+      "color": "MA3AFVL6ytRKwVNnD8NyA"
+    },
+    {
+      "path": "programming/backendJava/hibernate",
+      "color": "av7PnaseuY9OCmn48RS91"
+    },
+    {
+      "path": "programming/backendJava/javaEE",
+      "color": "NpfRRYL2g_gtThVEM8gJc"
+    },
+    {
+      "path": "programming/backendJava/jdbc",
+      "color": "FCweSnlF5VGbOTFgP8MTE"
+    },
+    {
+      "path": "programming/backendJava/maven",
+      "color": "Yh0M1wu3tY9DiQ3R_w0dP"
+    },
+    {
+      "path": "programming/backendJava/oracle",
+      "color": "BnDTqNeYU40hXk4fiS6wj"
+    },
+    {
+      "path": "programming/backendJava/postgresql",
+      "color": "BUP_T_wNblrjsIAfnm5Zh"
+    },
+    {
+      "path": "programming/backendJava/testing",
+      "color": "Ax-x9EZQ6voeXxfr0LB28"
+    },
+    {
+      "path": "programming/backendJava/patterns",
+      "color": "Z9PNz1LzoE_1pgE10jRtn"
+    },
+    {
+      "path": "programming/backendJava/liquibase",
+      "color": "lIlCnY1GEantNZ4kB14W-"
+    },
+    {
+      "path": "programming/backendJava/git",
+      "color": "fSJPedXRGHPFOWYduJgYI"
+    },
+    {
+      "path": "programming/backendJava/interview",
+      "color": "w7Neob-qBfnflq4XwORgd"
+    },
+    {
+      "path": "programming/backendJava/networks",
+      "color": "N5c5fJt3JNiVNkNF3BKDy"
+    },
+    {
+      "path": "programming/backendJava/Java Developer.md",
+      "color": "BzSzRLzRxD4yxV7JxOK3c"
+    },
+    {
+      "path": "programming/backendJava/kafka",
+      "color": "rina1CXDDLRUhnkEY3Ocx"
+    },
+    {
+      "path": "programming/backendJava/javaEE/apache tomcat",
+      "color": "BnDTqNeYU40hXk4fiS6wj"
+    },
+    {
+      "path": "programming/backendJava/groovy",
+      "color": "a3pyCCCucLVH73JovmJFs"
+    },
+    {
+      "path": "programming/algorithm/algorithm",
+      "color": "w7Neob-qBfnflq4XwORgd"
+    },
+    {
+      "path": "programming/algorithm/Algorithm.md",
+      "color": "w7Neob-qBfnflq4XwORgd"
+    },
+    {
+      "path": "武士道/武士道.md",
+      "color": "Z9PNz1LzoE_1pgE10jRtn"
+    },
+    {
+      "path": "english/English.md",
+      "color": "Yh0M1wu3tY9DiQ3R_w0dP"
+    },
+    {
+      "path": "武士道/武士道",
+      "color": "Z9PNz1LzoE_1pgE10jRtn"
+    },
+    {
+      "path": "english/english",
+      "color": "Yh0M1wu3tY9DiQ3R_w0dP"
+    },
+    {
+      "path": "work/alvion",
+      "color": "JuPerDCteBlE1YLaQUF44"
+    },
+    {
+      "path": "programming/backendJava/liquibase/all-liquibase",
+      "color": "lIlCnY1GEantNZ4kB14W-"
+    }
+  ]
+}
